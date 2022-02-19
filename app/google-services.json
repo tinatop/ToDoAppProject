@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "966372878898",
+    "project_id": "iamuprojekt",
+    "storage_bucket": "iamuprojekt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966372878898:android:24311e444c0910cccfaa2b",
+        "android_client_info": {
+          "package_name": "hr.algebra.iamuprojekt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966372878898-86gfahoo4dcv7v5ve1iodh7hun7kgh7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUg1UJy0ou8nZcOxS3cs6PQ9GCYGNb6uY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966372878898-86gfahoo4dcv7v5ve1iodh7hun7kgh7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
